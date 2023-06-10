@@ -122,11 +122,15 @@ local Eggs = {
     "mythic_egg",
     "japan_2022_egg",
     "danger_2023_egg", 
-    "jungle_2019_egg",
-    "farm_2019_egg",
-    "ocean_2021_egg",
-    "fossil_2022_egg"
-     
+    "jungle_egg",
+    "woodland_2022_woodland_egg",
+    "fossil_egg",
+    "aussie_egg",
+    "ocean_egg",
+    "farm_egg",
+    "pink_egg",
+    "safari_egg",
+    "easter_2020_egg"
 }
 
 local gifts = {

@@ -932,7 +932,7 @@ Toggles.FW44dsd:OnChanged(function(State)
     end)
 end)
 
-RightGroupBox:AddDropdown('Eggs', {Values = Eggs, Default = 1, Multi = false, Text = 'Eggs', Tooltip = ''})
+RightGroupBox:AddDropdown('Eggs', {Values = Eggs, Default = 1, Multi = false, Text = 'Eggstest', Tooltip = ''})
 
 Options.Eggs:OnChanged(function()
     Egg = Options.Eggs.Value

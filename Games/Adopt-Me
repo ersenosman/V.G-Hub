@@ -117,6 +117,7 @@ local Tasks = {
 
 local Eggs = {
     "cracked_egg",
+    "blue_egg",
     "regular_pet_egg",
     "royal_egg",
     "retired_egg",

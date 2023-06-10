@@ -122,10 +122,10 @@ local Eggs = {
     "mythic_egg",
     "japan_2022_egg",
     "danger_2023_egg", 
-    "jungle_egg",
-    "farm_egg",
-    "ocean_egg",
-    "fossil_egg"
+    "jungle_2019_egg",
+    "farm_2019_egg",
+    "ocean_2021_egg",
+    "fossil_2022_egg"
      
 }
 
